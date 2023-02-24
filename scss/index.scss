@@ -1,0 +1,14 @@
+// style reset and other
+@import 'main/variables';
+@import 'main/mixins';
+@import 'main/reset';
+@import 'main/global';
+
+// blocks
+@import 'components/header';
+@import 'components/introduck';
+@import 'components/sponsors';
+@import 'components/news';
+@import 'components/services';
+@import 'components/feedback';
+@import 'components/footer';

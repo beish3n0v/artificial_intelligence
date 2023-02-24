@@ -1,0 +1,16 @@
+// content
+.wrapper {	
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+	font-family: 'Open Sans', sans-serif;
+	overflow: hidden;
+	background: rgba(2, 10, 24, 1);
+}
+.container {
+	max-width: 1150px;
+	margin: 0 auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	box-sizing: content-box;
+}
